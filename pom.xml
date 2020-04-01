@@ -72,8 +72,8 @@
 							</artifactory>
 							<publisher>
 								<contextUrl>http://localhost:8081/artifactory</contextUrl>
-								<username>${username}</username>
-								<password>${password}</password>
+								<username>admin</username>
+								<password>Password</password>
 								<excludePatterns>*-tests.jar</excludePatterns>
 								<repoKey>libs-release-local</repoKey>
 								<snapshotRepoKey>libs-snapshot-local</snapshotRepoKey>
