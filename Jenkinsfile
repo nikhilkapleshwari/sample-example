@@ -17,7 +17,7 @@ pipeline {
         stage('install & deploy') {
             steps {
                 echo 'installing & deploying release'
-                sh "mvn release:perform -Darguments="-Dmaven.javadoc.skip=true -Dusername=admin -Dpassword=Password@12345" "
+                sh "mvn release:perform -Darguments="-Dmaven.javadoc.skip=true -Dusername=admin -Dpassword=Password12345" "
             }
         }
     }
