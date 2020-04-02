@@ -14,7 +14,7 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:https://github.com/nikhilkapleshwari/sample-example.git</connection>
+		<connection>scm:git:http://nikhil1632@gmail.com:Nik!99277852@github.com/nikhilkapleshwari/sample-example.git</connection>
 		<url>https://github.com/nikhilkapleshwari/sample-example.git</url>
 		<developerConnection>scm:git:https://github.com/nikhilkapleshwari/sample-example.git</developerConnection>
 		<tag>sample-example1-0.0.1</tag>
