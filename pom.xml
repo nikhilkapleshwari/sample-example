@@ -15,8 +15,8 @@
 
 	<scm>
 		<connection>scm:git:http://github.com/nikhilkapleshwari/sample-example.git</connection>
-		<url>https://github.com/nikhilkapleshwari/sample-example.git</url>
-		<developerConnection>scm:git:https://github.com/nikhilkapleshwari/sample-example.git</developerConnection>
+		<url>http://github.com/nikhilkapleshwari/sample-example.git</url>
+		<developerConnection>scm:git:http://github.com/nikhilkapleshwari/sample-example.git</developerConnection>
 		<tag>sample-example1-0.0.1</tag>
 	</scm>
 	
