@@ -1,5 +1,5 @@
 # Maven Artifactory Plugin
-added
+
 ## Overview
 
 This example is using the Maven Artifactory Plugin for artifacts and build-info deployment to Artifactory. 
